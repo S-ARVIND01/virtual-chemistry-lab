@@ -1,18 +1,20 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Virtual Chemistry Lab
+The VR Chemistry Laboratory project sets a new standard for how educational technology can be used to enhance learning outcomes.
+
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+#### Innovative Learning: Enhances chemistry education through immersive experiences.
+#### Safe Experimentation: Allows students to conduct experiments without real-world hazards.
+#### Interactive Environment: Facilitates engagement with complex chemical concepts.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+1. Project Scope Definition
+2. Software Setup
+3. Asset Creation
+4. Physics and Chemistry Simulation
+5. User Interaction
+6. Documentation and Deployment
+
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
